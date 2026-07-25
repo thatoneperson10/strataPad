@@ -1,0 +1,8 @@
+Item,Quantity,Manufacturer,Part Number,Description,Supplier,Notes
+Seeed Studio XIAO RP2040,1,Seeed Studio,102010428,RP2040 development board,https://www.seeedstudio.com/XIAO-RP2040-p-5026.html,Main microcontroller
+MX Mechanical Switch,4,Cherry/Gateron/Kailh,,MX-compatible mechanical switch,Vendor of choice,Compatible with MX keycaps
+MX Keycap (1u),4,Generic,,1u MX-compatible keycap,Vendor of choice,Arrow legends optional
+Custom PCB,1,Self Designed,,strataPad PCB,JLCPCB,Designed in KiCad
+3D Printed Top Case,1,Self Designed,,Top enclosure,Self printed,PLA/PETG
+3D Printed Bottom Case,1,Self Designed,,Bottom enclosure,Self printed,PLA/PETG
+USB-C Cable,1,Generic,,USB-C cable,Any,For programming
