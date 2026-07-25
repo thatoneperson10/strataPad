@@ -91,3 +91,9 @@ The `production/` folder contains everything needed to build the project:
 7. Flash the firmware located in `production/firmware.uf2` by placing the XIAO RP2040 into bootloader mode and copying the UF2 file onto the mounted drive.
 
 The keyboard is now ready to use.
+
+---
+
+## Notes
+
+This is my first hardware project! I had extremely basic knowledge of Onshape and Blender, along with no knowledge of KiCAD. I also didn't know how to use QMK, which actually took the most time.
