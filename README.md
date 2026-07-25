@@ -65,3 +65,29 @@ The `production/` folder contains everything needed to build the project:
 - `top.step`
 - `bottom.step`
 - `assembly.step`
+
+---
+
+## Assembly Instructions
+
+### Required Parts
+
+- Custom PCB
+- 3D Printed Top Case
+- 3D Printed Bottom Case
+- Seeed Studio XIAO RP2040
+- 4 × MX Mechanical Switches
+- 4 × MX-compatible Keycaps
+- Super glue or CA glue
+
+### Assembly
+
+1. Solder the Seeed Studio XIAO RP2040 onto the PCB.
+2. Insert the four MX switches into the top case.
+3. Align the PCB with the switch pins and solder each switch to the PCB.
+4. Press the four keycaps onto the switches.
+5. Apply a small amount of super glue (CA glue) around the mating surfaces of the case and attach the bottom case to the top case. Hold the parts together until the adhesive sets.
+6. Connect the keyboard to a computer using a USB-C cable.
+7. Flash the firmware located in `production/firmware.uf2` by placing the XIAO RP2040 into bootloader mode and copying the UF2 file onto the mounted drive.
+
+The keyboard is now ready to use.
